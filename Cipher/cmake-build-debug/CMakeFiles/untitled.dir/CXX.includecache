@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MyMBP/Desktop/Coding:Programming/untitled/PermCipher.cpp
+iostream
+-
+stdio.h
+-
+fstream
+-
+array
+-
+string
+-
+unistd.h
+-
+sstream
+-
+
